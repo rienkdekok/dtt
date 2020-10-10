@@ -4,8 +4,13 @@ You can use the [editor on GitHub](https://github.com/rienkdekok/dtt/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## Creating a pull request followed by a merge for better understaning.
+So do a commit with pull.
+=======
 ####
 Updating one more version to see what happens.
+
 
 ### Markdown
 
