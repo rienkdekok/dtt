@@ -9,14 +9,14 @@ Zorg dat je ook [[Subpage|doc:.SubPage.WebHome]] leest.
 ## Image Sizing Markdown
 
 Wellicht de github markdown benodigd; HTML img codeing: 
-<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=25>` 
+<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=45> 
 
 
 ![https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
 
 Dat werkt prima.
 
-Kramdown engine? ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg)
+Kramdown engine? ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg ){:width="25px"}
 
 En
 
@@ -38,5 +38,5 @@ and now with https access. ![MyPublicImageLocation](https://storage001.public628
 
 * [nu.nl](https:///www.nu.nl)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzNjEsMTA0NjY4MTc3M119
+eyJoaXN0b3J5IjpbLTE1NjEyMjA2OTksMTA0NjY4MTc3M119
 -->
