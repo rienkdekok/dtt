@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/rienkdekok/dtt/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Creating a pull request followed by a merge for better understaning.
+So do a commit with pull.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
