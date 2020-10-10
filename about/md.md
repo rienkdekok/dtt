@@ -1,14 +1,11 @@
 # Dit is de editor.
 
-Uiteraard werkt deze nu met markdown en dat was ook het initieele doel. Dat doel is dus **geslaagd**.
-
-Het is niet _inline_ maar wel near inline.
 
 Zorg dat je ook [[Subpage|doc:.SubPage.WebHome]] leest.
 
 ## Image Sizing Markdown
 
-Wellicht de github markdown benodigd; HTML img codeing: 
+HTML img codeing werkt perfect
 <img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=45> 
 
 
@@ -38,5 +35,5 @@ and now with https access. ![MyPublicImageLocation](https://storage001.public628
 
 * [nu.nl](https:///www.nu.nl)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE1NDM3MzMsMTA0NjY4MTc3M119
+eyJoaXN0b3J5IjpbLTE3ODQwMTE3MjcsMTA0NjY4MTc3M119
 -->
