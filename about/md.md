@@ -1,10 +1,7 @@
 # Dit is de editor.
 
 ## Image Sizing Markdown
-
- - [ ] 
- - [ ] 
- - [ ] 
+Standaard markdown geeft image op 100% grote. Voorkom dit door gebruik te maken van `HTML <img src="" widht="245|>
 
 > This is strong text
 > sadfs
@@ -35,5 +32,6 @@ Using cloudfront url; ![cloudfront url](https://d2nycb7fhhex4i.cloudfront.net/im
 and now with https access. ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzQ5MjA3NiwxMDQ2NjgxNzczXX0=
+eyJoaXN0b3J5IjpbMTk1NTIwOTQ3NiwxNjYzNDkyMDc2LDEwND
+Y2ODE3NzNdfQ==
 -->
