@@ -8,14 +8,9 @@ type 2 [about/md](/about/md.md)
 
 type 3 [about/md](about/md.md)
 
-Wellicht de github markdown benodigd; HTML img codeing: `<img src="[https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg]
-(https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)" width=50>` ![[https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)]([https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg))
-
+![cloudfront dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
   
-
-Dat werkt prima.
-
-  
+simple upda
 
 Kramdown engine? ![MyPublicImageLocation]([https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg)){:width="50px"}
 You can use the [editor on GitHub](https://github.com/rienkdekok/dtt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -68,5 +63,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out........
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUwMjg3OTAsMTUwNzIwNDk4NF19
+eyJoaXN0b3J5IjpbLTQ2ODA0MzYxOSwxNTA3MjA0OTg0XX0=
 -->
