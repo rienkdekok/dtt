@@ -1,8 +1,16 @@
 ## Welcome to GitHub Pages.
 
+
+Dit is de about, denk ik....
+[about/md](./about/md.md)
+[about/md](/about/md.md)
+[about/md](about/md.md)
+
+
 You can use the [editor on GitHub](https://github.com/rienkdekok/dtt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Dit voeg ik toe.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
