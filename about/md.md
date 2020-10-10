@@ -8,11 +8,11 @@ Zorg dat je ook [[Subpage|doc:.SubPage.WebHome]] leest.
 
 ## Image Sizing Markdown
 
-Wellicht de github markdown benodigd; HTML img codeing: `<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=50>` ![https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
+Wellicht de github markdown benodigd; HTML img codeing: `<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=25>` ![https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
 
 Dat werkt prima.
 
-Kramdown engine? ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg){:width="50px"}
+Kramdown engine? ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg){:width="25px"}
 
 En
 
