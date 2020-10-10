@@ -12,7 +12,7 @@ So do a commit with pull.
 Updating one more version to see what happens.
 
 
-### Markdown
+### Markdown.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
