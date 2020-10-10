@@ -2,9 +2,11 @@
 
 
 Dit is de about, denk ik....
-[about/md](./about/md.md)
-[about/md](/about/md.md)
-[about/md](about/md.md)
+type 1 [about/md](./about/md.md)
+
+type 2 [about/md](/about/md.md)
+
+type 3 [about/md](about/md.md)
 
 
 You can use the [editor on GitHub](https://github.com/rienkdekok/dtt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
