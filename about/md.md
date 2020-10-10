@@ -1,13 +1,9 @@
 # Dit is de editor.
 
-
-Zorg dat je ook [[Subpage|doc:.SubPage.WebHome]] leest.
-
 ## Image Sizing Markdown
 
 HTML img codeing werkt perfect
-<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=45> 
-
+<img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=245> 
 
 ![https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg) 
 
@@ -29,11 +25,6 @@ Using cloudfront url; ![cloudfront url](https://d2nycb7fhhex4i.cloudfront.net/im
 
 and now with https access. ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg)
 
-![My Markdown Image](https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg)
-
-### URLs
-
-* [nu.nl](https:///www.nu.nl)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQwMTE3MjcsMTA0NjY4MTc3M119
+eyJoaXN0b3J5IjpbMTI4ODUyMTM0NCwxMDQ2NjgxNzczXX0=
 -->
