@@ -2,6 +2,15 @@
 
 ## Image Sizing Markdown
 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+
+> This is strong text
+> sadfs
+> asdf
+
+
 HTML img codeing werkt perfect
 <img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=245> 
 
@@ -26,5 +35,5 @@ Using cloudfront url; ![cloudfront url](https://d2nycb7fhhex4i.cloudfront.net/im
 and now with https access. ![MyPublicImageLocation](https://storage001.public62818.s3-eu-west-1.amazonaws.com/images01/dkrimage.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODUyMTM0NCwxMDQ2NjgxNzczXX0=
+eyJoaXN0b3J5IjpbMTY2MzQ5MjA3NiwxMDQ2NjgxNzczXX0=
 -->
