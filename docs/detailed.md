@@ -1,6 +1,4 @@
 
-## Detailed
-More detail for the invested reader seeking deeper understanding. If that is not enough move to the beyond funny section.
 
 ## Table of content
 1. Void
@@ -9,5 +7,5 @@ More detail for the invested reader seeking deeper understanding. If that is not
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1MDU3NTVdfQ==
+eyJoaXN0b3J5IjpbLTM3NDY0MzYxOSwtMTQ1NDUwNTc1NV19
 -->
