@@ -3,8 +3,16 @@ Containting three parts
 2. [Detailed](Detailed/index.md)
 3. [Beyond funny](Beyond%20%funny/index.md)
 
+## Highlevel
+The abstract, something that is understandable and invites to start reading the detailed sections.
+
+## Detailed
+More detail for the invested reader seeking deeper understanding. If the detail is not detailed enough move to the beyond funny sections.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTA5NTQ2Myw5OTIyNDc3MDcsLTE1Mz
-U1Njk4NzEsLTE2MzY2ODQyODIsLTE2MTc0NjIxNDksLTc0MzAy
-MjQ1LDYwOTMyNjI2MSwtNzE5MjU1ODU0XX0=
+eyJoaXN0b3J5IjpbMTc5MTk0NjYyNCwxNjY1MDk1NDYzLDk5Mj
+I0NzcwNywtMTUzNTU2OTg3MSwtMTYzNjY4NDI4MiwtMTYxNzQ2
+MjE0OSwtNzQzMDIyNDUsNjA5MzI2MjYxLC03MTkyNTU4NTRdfQ
+==
 -->
