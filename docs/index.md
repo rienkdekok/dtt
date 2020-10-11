@@ -7,8 +7,8 @@ type 1 '[about/md](./about/md.md)' [about/md](./about/md.md)
 type 2 '[about/md](about/md.md)' [about/md](about/md.md)
 
 type 3 '[about/md](/about/md.md)' [about/md](/about/md.md)
-type 3, werkt niet onder readthedocs.org.
 
+type 3, werkt niet onder readthedocs.org.
 ## image
 ![cloudfront dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
   
@@ -64,5 +64,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out........
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MzI2MjYxLC03MTkyNTU4NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwODc3NDUxMDcsNjA5MzI2MjYxLC03MT
+kyNTU4NTRdfQ==
 -->
