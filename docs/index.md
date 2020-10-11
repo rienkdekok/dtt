@@ -1,10 +1,10 @@
 Containting three parts
-1. Highlevel
-2. Detailed
-3. Beyond funny
+1. [Highlevel](Highlevel/index.md)
+2. [Detailed](Detailed/index.md)
+3. [Beyond funny
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMjQ3NzA3LC0xNTM1NTY5ODcxLC0xNj
-M2Njg0MjgyLC0xNjE3NDYyMTQ5LC03NDMwMjI0NSw2MDkzMjYy
-NjEsLTcxOTI1NTg1NF19
+eyJoaXN0b3J5IjpbNTgzNzU0NzA4LDk5MjI0NzcwNywtMTUzNT
+U2OTg3MSwtMTYzNjY4NDI4MiwtMTYxNzQ2MjE0OSwtNzQzMDIy
+NDUsNjA5MzI2MjYxLC03MTkyNTU4NTRdfQ==
 -->
