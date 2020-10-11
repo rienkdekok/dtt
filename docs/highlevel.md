@@ -1,4 +1,3 @@
-## Highlevel
 The abstract, something that is understandable and invites you to start reading the detailed sections.
 
 ##  Table of content
