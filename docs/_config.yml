@@ -1,1 +1,5 @@
 theme: minima
+header_pages:
+  - Highlevel.md
+  - Detailed.md
+  - Beyond funny.md
