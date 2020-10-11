@@ -33,17 +33,15 @@ Dit voeg ik toe.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### Creating a pull request followed by a merge for better understaning.
+### Creating a pull request followed by a merge for better understaning
 
 So do a commit with pull.
-=======
-####
-Updating one more version to see what happens.
 
+#### Updating one more version to see what happens. L4
+L3
 
-### Markdown.
-=======
-
+### Markdown. l3
+l3
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -67,14 +65,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes L3
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rienkdekok/dtt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Contact L3
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out........
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc0NjIxNDksLTc0MzAyMjQ1LDYwOT
-MyNjI2MSwtNzE5MjU1ODU0XX0=
+eyJoaXN0b3J5IjpbLTE2MzY2ODQyODIsLTE2MTc0NjIxNDksLT
+c0MzAyMjQ1LDYwOTMyNjI2MSwtNzE5MjU1ODU0XX0=
 -->
