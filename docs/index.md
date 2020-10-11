@@ -8,7 +8,7 @@ type 2 [about/md](/about/md.md)
 
 type 3 [about/md](about/md.md)
 
-# image
+## image
 ![cloudfront dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
   
 simple update
@@ -63,5 +63,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out........
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTI1NTg1NF19
+eyJoaXN0b3J5IjpbNjA5MzI2MjYxLC03MTkyNTU4NTRdfQ==
 -->
