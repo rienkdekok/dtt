@@ -2,11 +2,12 @@
 
 synced or not?
 Dit is de about, denk ik....
-type 1 [about/md](./about/md.md)
+type 1 '[about/md](./about/md.md)' [about/md](./about/md.md)
 
-type 2 [about/md](/about/md.md)
+type 2 '[about/md](about/md.md)' [about/md](about/md.md)
 
-type 3 [about/md](about/md.md)
+type 3 '[about/md](/about/md.md)' [about/md](/about/md.md)
+type 3, werkt niet onder readthedocs.org.
 
 ## image
 ![cloudfront dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
