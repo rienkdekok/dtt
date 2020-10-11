@@ -1,7 +1,10 @@
 # Welcome to GitHub Pages.
-
 ## Level 2
+Level 2
+
 ### Level 3
+Level 3
+
 #### Level 4
 ##### Level 5
 
@@ -14,7 +17,7 @@ type 2 '[about/md](about/md.md)' [about/md](about/md.md)
 type 3 '[about/md](/about/md.md)' [about/md](/about/md.md)
 
 type 3, werkt niet onder readthedocs.org.
-## image
+### image
 ![cloudfront dkrimage.jpg](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
   
 simple update
@@ -27,7 +30,7 @@ Dit voeg ik toe.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-## Creating a pull request followed by a merge for better understaning.
+### Creating a pull request followed by a merge for better understaning.
 
 So do a commit with pull.
 =======
@@ -69,6 +72,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out........
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzAyMjQ1LDYwOTMyNjI2MSwtNzE5Mj
-U1ODU0XX0=
+eyJoaXN0b3J5IjpbMzYyOTI5NDQ2LC03NDMwMjI0NSw2MDkzMj
+YyNjEsLTcxOTI1NTg1NF19
 -->
