@@ -1,5 +1,5 @@
 theme: minima
 header_pages:
-  - highlevel.md
+  - Highlevel/index.md
   - detailed.md
   - beyond funny.md
