@@ -2,7 +2,7 @@
 ## Image Sizing Markdown
 **Standaard Image**
 
-Standaardzal  markdown houdt het image altijd op 100%. 
+Standaard zal  markdown het image size altijd op 100% houden.
 
 Standaard markdown `![altnaamimage](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)`
 ![altnaamimage](https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg)
@@ -14,6 +14,7 @@ Voorkom dit door gebruik te maken van `HTML <img src="https://d2nycb7fhhex4i.clo
 <img src="https://d2nycb7fhhex4i.cloudfront.net/images01/dkrimage.jpg" width=245> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTA5ODMwMCw3MTY5OTI5MSwtMjA1MD
-EyMjIzLDE2NjM0OTIwNzYsMTA0NjY4MTc3M119
+eyJoaXN0b3J5IjpbLTU1OTg3MTQwMiwxNDU5MDk4MzAwLDcxNj
+k5MjkxLC0yMDUwMTIyMjMsMTY2MzQ5MjA3NiwxMDQ2NjgxNzcz
+XX0=
 -->
