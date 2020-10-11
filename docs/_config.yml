@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 header_pages:
   - highlevel.md
   - detailed.md
