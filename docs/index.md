@@ -1,7 +1,7 @@
 # Three parts
 
 ### 1.  Highlevel
-The abstract, something that is understandable and invites to start reading the detailed sections. - [Highlevel](Highlevel/index.md)
+[Highlevel](Highlevel/index.md), somewhat abstract that is understandable and is an introdction to start reading the detailed sections. 
 
 ### 2. Detailed
 More detail for the invested reader seeking deeper understanding. If the detail is not detailed enough move to the beyond funny sections. - [Detailed](Detailed/index.md)
@@ -11,8 +11,8 @@ For some this is the funny part. If you don’t better try out the highlevel sec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU1NzA4NDQsMTY2NTA5NTQ2Myw5OT
-IyNDc3MDcsLTE1MzU1Njk4NzEsLTE2MzY2ODQyODIsLTE2MTc0
-NjIxNDksLTc0MzAyMjQ1LDYwOTMyNjI2MSwtNzE5MjU1ODU0XX
-0=
+eyJoaXN0b3J5IjpbMTg4NDYyODc0MCwxNjY1MDk1NDYzLDk5Mj
+I0NzcwNywtMTUzNTU2OTg3MSwtMTYzNjY4NDI4MiwtMTYxNzQ2
+MjE0OSwtNzQzMDIyNDUsNjA5MzI2MjYxLC03MTkyNTU4NTRdfQ
+==
 -->
