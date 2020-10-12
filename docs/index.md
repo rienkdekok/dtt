@@ -10,12 +10,10 @@ This document has thee main sections:
 ### 3. Beyond funny
 [Beyond funny](Beyond%20%funny/index.md), for some *this* is the funny part. If that is not funny then you better try out the highlevel sections first.
 
-[MD Dillinge](about/dillingermarkdown)
-
-
+Consider [MD Dillinger](about/dillingermarkdown) as an additon.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE0NjU5OCwtMTQzNzQ5NjYyMywtNj
-k0MDQ3NjI0LDE2NjUwOTU0NjMsOTkyMjQ3NzA3LC0xNTM1NTY5
-ODcxLC0xNjM2Njg0MjgyLC0xNjE3NDYyMTQ5LC03NDMwMjI0NS
-w2MDkzMjYyNjEsLTcxOTI1NTg1NF19
+eyJoaXN0b3J5IjpbNDA5NTAwMDc3LC0xNDM3NDk2NjIzLC02OT
+QwNDc2MjQsMTY2NTA5NTQ2Myw5OTIyNDc3MDcsLTE1MzU1Njk4
+NzEsLTE2MzY2ODQyODIsLTE2MTc0NjIxNDksLTc0MzAyMjQ1LD
+YwOTMyNjI2MSwtNzE5MjU1ODU0XX0=
 -->
