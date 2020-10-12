@@ -3,7 +3,9 @@ theme: readthedocs
 nav:
     - Home: 'index.md'
     - 'Level of detail':
-        - 'Highlevel..': 'Highlevel/index.md'
+        - 'Highlevel..': 'highlevel/index.md'
         - 'Detailed..': 'detailed/index.md'
+        - 'Reeel deep':
+            'Beyond funny...': 'beyondfunny/index.md'
     - About: 'about/md.md'
     
