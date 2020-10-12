@@ -1,5 +1,5 @@
 site_name: dtt
 theme: readthedocs
-docs/
-index.md
-Highlevel/index.md
+nav:
+    - Home: 'index.md'
+    
