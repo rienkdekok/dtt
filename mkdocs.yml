@@ -2,7 +2,7 @@ site_name: dtt
 theme: readthedocs
 nav:
     - Home: 'index.md'
-    User:
+    - 'Level of detail':
         - 'Highlevel..': 'Highlevel/index.md'
         - 'Detailed..': 'detailed/index.md'
     - About: 'about/md.md'
